@@ -1,6 +1,6 @@
-package main
-
 // +build !appengine
+
+package main
 
 import (
 	"log"
